@@ -1,102 +1,104 @@
-[
-  {
-    "company": "Yonder",
-    "position": "Senior Java Engineer • Contractor",
-    "period": "2023 Sep - Present (1 yr 3 mos)",
-    "description": "At Yonder, I delivered secure and high-performance systems to support the UK’s smart metering infrastructure. My work involved developing new features, ensuring security through data encryption, and integrating AWS services.",
-    "skills": [
-      "Java 21",
-      "AWS",
-      "Quarkus",
-      "Docker",
-      "Java Security",
-      "gRPC",
-      "Reactive Programming",
-      "Amazon S3",
-      "Amazon SNS",
-      "Amazon SQS",
-      "AWS Lambda",
-      "Hardware Security Module (HSM)",
-      "Amazon DynamoDB"
-    ]
-  },
-  {
-    "company": "YAP",
-    "position": "Senior Java Engineer • Contractor",
-    "period": "2022 Oct - 2023 Jun (9 mos)",
-    "description": "In this role, I provided backend support for a major fintech in the Middle East, optimizing SQL reporting and implementing automated processes to replace manual tasks, enhancing efficiency and accuracy.",
-    "skills": [
-      "Spring Boot",
-      "Kibana",
-      "MySQL",
-      "Java 11",
-      "Microservices",
-      "Spring Batch",
-      "Microsoft Azure",
-      "Spring Data"
-    ]
-  },
-  {
-    "company": "MVP Match",
-    "position": "Senior Java Engineer • Contractor",
-    "period": "2022 Jun - 2022 Oct (5 mos)",
-    "description": "I contributed to backend development on a greenfield project, enhancing feature optimization and quality assurance through regular code reviews, testing, and SQL query customization to meet specific business needs.",
-    "skills": [
-      "Spring Boot",
-      "JUnit",
-      "Java 17",
-      "JDBC",
-      "Spring Security",
-      "Spring MVC",
-      "CrateDB",
-      "Hibernate"
-    ]
-  },
-  {
-    "company": "msg systems Romania",
-    "position": "Java Software Engineer",
-    "period": "2021 May - 2022 Jun (1 yr 2 mos)",
-    "description": "I developed and maintained components for an internal tool for a top European car manufacturer, focusing on feature development, code quality improvements, and testing for fuel economy and aerodynamics data generation.",
-    "skills": [
-      "Jenkins",
-      "Open API",
-      "Docker",
-      "PostgreSQL",
-      "Java 11",
-      "Quarkus",
-      "RestAssured",
-      "Git",
-      "Maven",
-      "Microservices",
-      "Swagger API",
-      "OpenShift"
-    ]
-  },
-  {
-    "company": "Endava",
-    "position": "Java Software Engineer",
-    "period": "2018 Sep - 2021 Apr (2 yrs 8 mos)",
-    "description": "Working with one of the Netherlands' largest banks, I developed and maintained data components for client reports, designed core algorithms, and optimized reporting capabilities with tests to ensure high reliability.",
-    "skills": [
-      "SOAP",
-      "Bitbucket",
-      "Spring Boot",
-      "REST APIs",
-      "Docker",
-      "PostgreSQL",
-      "MySQL",
-      "Spring Security",
-      "Angular",
-      "Java",
-      "Maven",
-      "Azure DevOps",
-      "Spring Framework",
-      "Microservices",
-      "IoC",
-      "Oracle Database",
-      "Spring MVC",
-      "Spring Data",
-      "OOP"
-    ]
-  }
-]
+{
+  "experiences": [
+    {
+      "company": "Yonder",
+      "position": "Senior Java Engineer • Contractor",
+      "period": "2023 Sep - Present (1 yr 3 mos)",
+      "description": "At Yonder, I delivered secure and high-performance systems to support the UK’s smart metering infrastructure. My work involved developing new features, ensuring security through data encryption, and integrating AWS services like Lambda and CloudHSM.",
+      "skills": [
+        "Java 21",
+        "AWS",
+        "Quarkus",
+        "Docker",
+        "Java Security",
+        "gRPC",
+        "Reactive Programming",
+        "Amazon S3",
+        "Amazon SNS",
+        "Amazon SQS",
+        "AWS Lambda",
+        "Hardware Security Module (HSM)",
+        "Amazon DynamoDB"
+      ]
+    },
+    {
+      "company": "YAP",
+      "position": "Senior Java Engineer • Contractor",
+      "period": "2022 Oct - 2023 Jun (9 mos)",
+      "description": "In this role, I provided backend support for a major fintech in the Middle East, optimizing SQL reporting and implementing automated processes to replace manual tasks, enhancing efficiency and accuracy.",
+      "skills": [
+        "Spring Boot",
+        "Kibana",
+        "MySQL",
+        "Java 11",
+        "Microservices",
+        "Spring Batch",
+        "Microsoft Azure",
+        "Spring Data"
+      ]
+    },
+    {
+      "company": "MVP Match",
+      "position": "Senior Java Engineer • Contractor",
+      "period": "2022 Jun - 2022 Oct (5 mos)",
+      "description": "I contributed to backend development on a greenfield project, enhancing feature optimization and quality assurance through regular code reviews, testing, and SQL query customization to meet specific business needs.",
+      "skills": [
+        "Spring Boot",
+        "JUnit",
+        "Java 17",
+        "JDBC",
+        "Spring Security",
+        "Spring MVC",
+        "CrateDB",
+        "Hibernate"
+      ]
+    },
+    {
+      "company": "msg systems Romania",
+      "position": "Java Software Engineer",
+      "period": "2021 May - 2022 Jun (1 yr 2 mos)",
+      "description": "I developed and maintained components for an internal tool for a top European car manufacturer, focusing on feature development, code quality improvements, and testing for fuel economy and aerodynamics data generation.",
+      "skills": [
+        "Jenkins",
+        "Open API",
+        "Docker",
+        "PostgreSQL",
+        "Java 11",
+        "Quarkus",
+        "RestAssured",
+        "Git",
+        "Maven",
+        "Microservices",
+        "Swagger API",
+        "OpenShift"
+      ]
+    },
+    {
+      "company": "Endava",
+      "position": "Java Software Engineer",
+      "period": "2018 Sep - 2021 Apr (2 yrs 8 mos)",
+      "description": "Working with one of the Netherlands' largest banks, I developed and maintained data components for client reports, designed core algorithms, and optimized reporting capabilities with tests to ensure high reliability.",
+      "skills": [
+        "SOAP",
+        "Bitbucket",
+        "Spring Boot",
+        "REST APIs",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Spring Security",
+        "Angular",
+        "Java",
+        "Maven",
+        "Azure DevOps",
+        "Spring Framework",
+        "Microservices",
+        "IoC",
+        "Oracle Database",
+        "Spring MVC",
+        "Spring Data",
+        "OOP"
+      ]
+    }
+  ]
+}
