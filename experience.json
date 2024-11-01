@@ -2,7 +2,7 @@
   "experiences": [
     {
       "company": "Yonder",
-      "position": "Senior Java Engineer • Contractor",
+      "position": "Senior Java Engineer",
       "period": "2023 Sep - Present (1 yr 3 mos)",
       "description": "At Yonder, I delivered secure and high-performance systems to support the UK’s smart metering infrastructure. My work involved developing new features, ensuring security through data encryption, and integrating AWS services like Lambda and CloudHSM.",
       "skills": [
@@ -13,17 +13,12 @@
         "Java Security",
         "gRPC",
         "Reactive Programming",
-        "Amazon S3",
-        "Amazon SNS",
-        "Amazon SQS",
-        "AWS Lambda",
         "Hardware Security Module (HSM)",
-        "Amazon DynamoDB"
       ]
     },
     {
       "company": "YAP",
-      "position": "Senior Java Engineer • Contractor",
+      "position": "Senior Java Engineer",
       "period": "2022 Oct - 2023 Jun (9 mos)",
       "description": "In this role, I provided backend support for a major fintech in the Middle East, optimizing SQL reporting and implementing automated processes to replace manual tasks, enhancing efficiency and accuracy.",
       "skills": [
@@ -39,7 +34,7 @@
     },
     {
       "company": "MVP Match",
-      "position": "Senior Java Engineer • Contractor",
+      "position": "Senior Java Engineer",
       "period": "2022 Jun - 2022 Oct (5 mos)",
       "description": "I contributed to backend development on a greenfield project, enhancing feature optimization and quality assurance through regular code reviews, testing, and SQL query customization to meet specific business needs.",
       "skills": [
