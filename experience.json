@@ -13,7 +13,8 @@
         "Java Security",
         "gRPC",
         "Reactive Programming",
-        "Hardware Security Module (HSM)"
+        "Hardware Security Module (HSM)",
+        "Gradle"
       ]
     },
     {
@@ -29,7 +30,7 @@
         "Microservices",
         "Spring Batch",
         "Microsoft Azure",
-        "Spring Data"
+        "Maven"
       ]
     },
     {
@@ -39,13 +40,11 @@
       "description": "I contributed to backend development on a greenfield project, enhancing feature optimization and quality assurance through regular code reviews, testing, and SQL query customization to meet specific business needs.",
       "skills": [
         "Spring Boot",
-        "JUnit",
         "Java 17",
         "JDBC",
-        "Spring Security",
-        "Spring MVC",
         "CrateDB",
-        "Hibernate"
+        "Hibernate",
+        "Gradle"
       ]
     },
     {
@@ -61,10 +60,7 @@
         "Java 11",
         "Quarkus",
         "RestAssured",
-        "Git",
         "Maven",
-        "Microservices",
-        "Swagger API",
         "OpenShift"
       ]
     },
@@ -74,25 +70,15 @@
       "period": "2018 Sep - 2021 Apr (2 yrs 8 mos)",
       "description": "Working with one of the Netherlands' largest banks, I developed and maintained data components for client reports, designed core algorithms, and optimized reporting capabilities with tests to ensure high reliability.",
       "skills": [
-        "SOAP",
-        "Bitbucket",
         "Spring Boot",
-        "REST APIs",
         "Docker",
         "PostgreSQL",
         "MySQL",
-        "Spring Security",
-        "Angular",
-        "Java",
-        "Maven",
-        "Azure DevOps",
-        "Spring Framework",
-        "Microservices",
-        "IoC",
         "Oracle Database",
-        "Spring MVC",
-        "Spring Data",
-        "OOP"
+        "Angular",
+        "Java 8",
+        "Maven",
+        "Reactive Programming"
       ]
     }
   ]
